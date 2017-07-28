@@ -1,5 +1,7 @@
 # Movie theater application
 
+https://github.com/bkorobeinikov/movieapp-ionic
+
 This app was made just to see Ionic 2 in action with real page flows and real data api (and ngrx/store).
 
 ## Important!
